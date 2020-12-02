@@ -1,0 +1,72 @@
+html {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: rgb(30, 30, 30);
+}
+
+body{
+    width: 2000px;
+    margin: 0 auto;
+    padding: 80px 20px 20px 240px;
+
+}
+
+h1 {
+    text-align: left;
+    font-size: 30px;
+    color:rgb(211, 139, 187);
+    width: 500px;
+}
+
+li {
+    color:rgb(100, 100, 100);
+    padding: 5px;
+    margin-bottom: 0px;
+    text-decoration: none
+}
+
+p {
+    font-size: 18px;
+    margin-top: 25px;
+    color: whitesmoke;
+
+    
+}
+#soon {
+    color: rgb(100, 100, 100);
+    margin-left: 58px;
+    margin-top: -10px;
+}
+
+img {
+    display: block;
+    margin:  10px;
+}
+
+<style>
+a{
+  text-decoration: none
+}
+a:link {
+  color: rgb(100, 100, 100);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color:rgb(100, 100, 100);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(211, 139, 187);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: rgb(100, 100, 100);
+  background-color: transparent;
+  text-decoration: none;
+}
+</style> 
